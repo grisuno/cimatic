@@ -1,5 +1,9 @@
 # API
 
 ## app.py
-- `wheelEvent` (function) `app.py:14` `def wheelEvent(event)`
-- `update_freq` (function) `app.py:77` `def update_freq(value)`
+
+### wheelEvent (function) `def wheelEvent(event)`
+- Defined: `app.py:14`
+
+### update_freq (function) `def update_freq(value)`
+- Defined: `app.py:77`

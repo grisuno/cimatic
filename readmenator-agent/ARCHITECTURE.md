@@ -6,4 +6,11 @@
 
 ## External Imports
 
-- `app.py` -> PyQt5, PyQt5.QtCore, PyQt5.QtGui, PyQt5.QtWidgets, math, numpy, pygame, time
+- `app.py` -> `PyQt5`
+- `app.py` -> `PyQt5.QtCore`
+- `app.py` -> `PyQt5.QtGui`
+- `app.py` -> `PyQt5.QtWidgets`
+- `app.py` -> `math`
+- `app.py` -> `numpy`
+- `app.py` -> `pygame`
+- `app.py` -> `time`
